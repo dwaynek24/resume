@@ -1,0 +1,24 @@
+{
+    "name": "Devin Knotts",
+    "website": "anythingumanifest.com",
+    "linkedin": "",
+    "github": "",
+    "email": "",
+    "resume": "",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+       "Photography"
+    ]
+}
